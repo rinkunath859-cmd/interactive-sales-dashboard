@@ -1,4 +1,5 @@
 📊 Interactive Sales Dashboard
+
 📌 Project Overview
 
 The Interactive Sales Dashboard is a data analysis and visualization project designed to explore sales performance across products, regions, and time.
@@ -29,14 +30,7 @@ Price	Price per unit
 Customer_ID	Unique customer identifier
 Region	Sales region
 Total_Sales	Total transaction value
-⚙️ Setup Instructions
-1️⃣ Clone the Repository
-git clone https://github.com/yourusername/sales-dashboard.git
-cd sales-dashboard
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-3️⃣ Run the Dashboard
-python dashboard.py
+
 🛠️ Technologies Used
 
 Python
@@ -52,6 +46,7 @@ Seaborn
 Plotly
 
 📊 Visualizations Included
+
 🔹 1. Sales Trend (Line Chart)
 
 Displays total sales over time
